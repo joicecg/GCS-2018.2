@@ -20,7 +20,7 @@ Sumário
 	Termo |	Descrição
 	| :------------: | :------------: |
 	| ACP   | Sigla para documentos de acompanhamento e qualidade   |
-Baseline........Linha de base. Conjunto de versões de itens de configuração comprovadamente estáveis. Uma baseline é usada como base no 			desenvolvimento da próxima fase do artefato e tem suas mudanças controladas por um processo formal. 
+	| Baseline | Linha de base. Conjunto de versões de itens de configuração comprovadamente estáveis. Uma baseline é usada como base no desenvolvimento da próxima fase do artefato e tem suas mudanças controladas por um processo formal. |
 CCB.............Do inglês, ChangeControl Board, grupo responsável por autorizar modificações nos itens de configuração.
 CR..............Do inglês, ChangeRequest, solicitação de mudança, aplicado a melhorias, defeitos, solicitações de baseline, solicitações de 			release, dúvidas, tarefas e outros tipos. 
 CVS.............Do inglês, ControlVersion System, sistema de controle de versão (configuração) de software.
