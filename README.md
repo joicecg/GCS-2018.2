@@ -17,7 +17,7 @@ Sumário
 
 	Esta seção explica o conceito de alguns termos importantes que serão mencionados no decorrer deste documento. Estes termos são descritos na 		tabela abaixo, estando apresentados por ordem alfabética .
 
-	Termo		Descrição
+	Termo |	Descrição
 	| :------------: | :------------: |
 | ACP   | Sigla para documentos de acompanhamento e qualidade   |
 Baseline........Linha de base. Conjunto de versões de itens de configuração comprovadamente estáveis. Uma baseline é usada como base no 			desenvolvimento da próxima fase do artefato e tem suas mudanças controladas por um processo formal. 
