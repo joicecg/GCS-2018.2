@@ -43,10 +43,11 @@ Sumário
 
 	2.1 - Ferramentas:
 
-	Ferramenta		Versão	Objetivo
-	Visual Studio Code......1.26....Ferramenta para desenvolvimento
-	Trello..................NA......Controle interno do projeto
-	GitHub Desktop..........1.3.....Cliente de acesso ao repositório
+	Ferramenta | Versão | Objetivo
+	:--------: | :----: | :--------
+	| Visual Studio Code | 1.26 | Ferramenta para desenvolvimento|
+	| Trello | NA | Controle interno do projeto|
+	| GitHub Desktop | 1.3 | Cliente de acesso ao repositório|
 
 	2.2 - Configuração da ferramenta de controle de versão:
 
