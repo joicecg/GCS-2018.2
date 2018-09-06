@@ -32,10 +32,10 @@ Sumário
 
 	O plano de gerência de configuração deve ser mantido atualizado para refletir o planejamento corrente. Dessa forma, as seguintes situações 			representam gatilhos para atualização do plano e nova aprovação deste documento:
 
-	a) Mudança nos itens de configuração;
-	b) Mudança na identificação dos arquivos;
-	c) Mudança nas ferramentas utilizadas;
-	d) Mudança do padrão de versionamento;
+	a) Mudança nos itens de configuração;<br />
+	b) Mudança na identificação dos arquivos;<br />
+	c) Mudança nas ferramentas utilizadas;<br />
+	d) Mudança do padrão de versionamento;<br />
 
 2. FERRAMENTAS E CONFIGURAÇÕES
 
