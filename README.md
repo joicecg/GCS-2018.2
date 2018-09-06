@@ -50,25 +50,29 @@ Sumário
 	| GitHub Desktop | 1.3 | Cliente de acesso ao repositório|
 
 	2.2 - Configuração da ferramenta de controle de versão:
-
-	Tipo do Repositório............	CVS
-	Servidor do repositório........	https://github.com	Diretório home.................	/joicecg/GCS-2018.2
-	Forma de acesso................	GitHub Desktop, Shell e GitHub.com
+	Descrição        | Item
+	| :------------: | :------------ 
+	Tipo do Repositório | CVS
+	Servidor do repositório | https://github.com
+	Diretório home | /joicecg/GCS-2018.2
+	Forma de acesso | GitHub Desktop, Shell e GitHub.com
 
 	2.3 - Configuração da ferramenta de controle de mudança:
+	Descrição        | Item
+	| :------------: | :------------ 
+	|Ferramenta utilizada |	Bugzilla|
 
-	Ferramenta utilizada...........	Bugzilla
 
-
-	CATEGORIA			RESPONSÁVEL
-	Mudança de Requisitos..........	Jocelito Ferreira
-	Defeitos....................... Lucas Warpechowski
-	Solicitações de Baselines...... Joice C. Gomes
-	Novos Requisitos...............	Jocelito Ferreira
-	Tarefa.........................	Felipe Lacerda
-	Implementação..................	Felipe Lacerda
-	Agrupamento de CR..............	Joice C. Gomes
-	Solicitação de Release.........	Lucas Warpechowski
+	CATEGORIA		| RESPONSÁVEL
+	| :-------------------: | :------------------- |
+	|Mudança de Requisitos | Jocelito Ferreira|
+	|Defeitos | Lucas Warpechowski|
+	|Solicitações de Baselines | Joice C. Gomes|
+	|Novos Requisitos | Jocelito Ferreira|
+	|Tarefa | Felipe Lacerda|
+	|Implementação | Felipe Lacerda|
+	|Agrupamento de CR | Joice C. Gomes|
+	|Solicitação de Release | Lucas Warpechowski|
 
 3. POLÍTICA DE GERÊNCIA E CONFIGURAÇÃO
 
@@ -77,10 +81,11 @@ Sumário
 	Nesta seção, serão apresentados os padrões utilizados no projeto tais como, identificadores, nomes de arquivos, nomes de branches, versionamento 	(sistema, documentos e baselines).
 
 	a) Identificadores do projeto e produtos:
-
-	GC-2018-2............ Identificador do projeto
-	WK-GP1............... Identificador da aplicação WIKI-GP1
-	WK-GP1/MD-<nome>..... Identificador dos módulos da aplicação WIKI-GP1
+	Identificador 	 | Descrição
+	| :------------: | :------------ |
+	|GC-2018-2 | Identificador do projeto |
+	|WK-GP1 | Identificador da aplicação WIKI-GP1|
+	|WK-GP1/MD-<nome> | Identificador dos módulos da aplicação WIKI-GP1|
 
 	b) Nomenclatura de documentos:
 
