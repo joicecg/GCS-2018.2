@@ -1,0 +1,10 @@
+.modalDefinition{
+    position: absolute;
+    width: 50%;
+    top: 0;
+}
+.teste{
+    width: 100%;
+    display: flex;
+    justify-content: center
+}
