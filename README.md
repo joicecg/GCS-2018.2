@@ -88,59 +88,61 @@ Sumário
 	|WK-GP1/MD-<nome> | Identificador dos módulos da aplicação WIKI-GP1|
 
 	b) Nomenclatura de documentos:
-
-	Diagrama de Classes................. GC_WK-GP1_PLN_DiagramaClasses
-	Documento de Arquitetura............ GC_WK-GP1_PLN_Arquitetura
-	Modelo de Projeto................... GC_WK-GP1_PLN_ModeloProjeto
-	Plano de Gerência de Configuração... GC_WK-GP1_GCO_PlanoGerencia
-	Checklist de implementação.......... GC_WK-GP1_IMP_ChecklistImplementacao
-	Cronograma.......................... GC_WK-GP1_PLN_Cronograma
-	Relatório de acompanhamentointerno.. GC_WK-GP1_ACP_Interno_DDMMAA
-	Documento de Requisitos............. GC_WK-GP1_PLN_DocumentoRequisitos
-	Planilha de resultados de Testes.... GC_WK-GP1_ACP_ResultadosTestes_DDMMAA
+	| :------------: | :------------ |
+	|Diagrama de Classes| GC_WK-GP1_PLN_DiagramaClasses|
+	|Documento de Arquitetura| GC_WK-GP1_PLN_Arquitetura|
+	|Modelo de Projeto| GC_WK-GP1_PLN_ModeloProjeto|
+	|Plano de Gerência de Configuração| GC_WK-GP1_GCO_PlanoGerencia|
+	|Checklist de implementação| GC_WK-GP1_IMP_ChecklistImplementacao|
+	|Cronograma|GC_WK-GP1_PLN_Cronograma|
+	|Relatório de acompanhamentointerno| GC_WK-GP1_ACP_Interno_DDMMAA|
+	|Documento de Requisitos|GC_WK-GP1_PLN_DocumentoRequisitos|
+	|Planilha de resultados de Testes|GC_WK-GP1_ACP_ResultadosTestes_DDMMAA|
 
 	c) Nomenclaturas de tags/labels:
-
-	Baseline funcional........... GC_WK-GP1_FUNC
-	Baselines.................... GC_WK-GP1_BASE_NN (NN é um sequencial simples).
-	Branch de Release............ GC_WK-GP1_BRLS_XX.YY
-	Releases..................... GC_WK-GP1_RLS_XX.YY
-	Versionamento................ XX.YY (XX é o número da versão e YY é o sequencial dos releases da versão atual).
+	
+	| :------------: | :------------ |
+	|Baseline funcional| GC_WK-GP1_FUNC|
+	|Baselines| GC_WK-GP1_BASE_NN (NN é um sequencial simples).|
+	|Branch de Release| GC_WK-GP1_BRLS_XX.YY|
+	|Releases| GC_WK-GP1_RLS_XX.YY|
+	|Versionamento| XX.YY (XX é o número da versão e YY é o sequencial dos releases da versão atual).|
 
 	3.2 - Local de Armazenamento:
 	
 	Esta seção apresenta onde são armazenados os artefatos do projeto.
 
-	Diretório		Descrição
-	builds.................	Builds do sistema geradas para fins de teste ou release.
-	releases............... Versões de release do sistema.
-	testes................. Versões não estáveis para teste do sistema.
-	código.................	Contém diretórios para o código fonte, bibliotecas utilizadas e scripts de compilação.
-	nome-projeto...........	Conteúdo do projeto que é alterado pelos desenvolvedores.
-	bin....................	Código compilado do sistema
-	WebContent.............	Guarda os arquivos jsp, javascript, css, imagens e as configurações WEB.
-	documentos.............	Toda documentação do projeto.
-	    configuração.......	Documentos de gerência de configuração de software.
-	design.................	Artefatos de design, como modelos UML e descrições da arquitetura do sistema.
-	geral..................	Documentos gerais.
-	    planejamento....... Documentos de planejamento.
-	    qualidade..........	Documentos de garantia de qualidade de software.
-	requisitos.............	Documentos de requisito.
-	    teste..............	Documentos de teste para o projeto, incluindo documentos de procedimentos de testes, planos de teste, etc.	
-	relatórios.............	Todos os relatórios do projeto.
-	    teste.............. Relatórios de teste.
+	Diretório	|	Descrição
+	| :------------: | :------------ |
+	|builds|	Builds do sistema geradas para fins de teste ou release.|
+	|releases| Versões de release do sistema.|
+	|testes| Versões não estáveis para teste do sistema.|
+	|código|	Contém diretórios para o código fonte, bibliotecas utilizadas e scripts de compilação.|
+	|nome-projeto|	Conteúdo do projeto que é alterado pelos desenvolvedores.|
+	|bin|	Código compilado do sistema|
+	|WebContent|	Guarda os arquivos jsp, javascript, css, imagens e as configurações WEB.|
+	|documentos|	Toda documentação do projeto.|
+	|   configuração|	Documentos de gerência de configuração de software.|
+	|design|	Artefatos de design, como modelos UML e descrições da arquitetura do sistema.|
+	|geral|	Documentos gerais.|
+	|    planejamento| Documentos de planejamento.|
+	|    qualidade|	Documentos de garantia de qualidade de software.|
+	|requisitos|	Documentos de requisito.|
+	|    teste|	Documentos de teste para o projeto, incluindo documentos de procedimentos de testes, planos de teste, etc.	|
+	|relatórios|	Todos os relatórios do projeto.|
+	|    teste| Relatórios de teste.|
 
 	3.3 - Itens de Configuração
 	
 	Esta seção define como será feita a classificação dos artefatos do projeto.
-	
-	Artefatos gerenciais...........	Todos os documentos relacionados à gerência de projetos.
-	Artefatos de planejamento......	Todos os documentos relacionados ao planejamento (qualidade, gerência de configuração, testes, etc).
-	Artefatos de requisitos........	Documento de requisitos, diagramas de casos de uso, especificação de casos de uso, etc.
-	Artefatos de análise e projeto.	Documento de arquitetura, diagramas UML diversos e diagramas entidade-relacionamento.
-	Arquivos de configuração.......	Arquivos com parâmetros utilizados para configuração do ambiente e execução do sistema.
-	Código-fonte...................	Arquivos contendo as classes do sistema.
-	Builds.........................	Releases do projeto executando em produção.
+	| :------------: | :------------ |
+	|Artefatos gerenciais|	Todos os documentos relacionados à gerência de projetos.|
+	|Artefatos de planejamento|	Todos os documentos relacionados ao planejamento (qualidade, gerência de configuração, testes, etc).|
+	|Artefatos de requisitos|	Documento de requisitos, diagramas de casos de uso, especificação de casos de uso, etc.|
+	|Artefatos de análise e projeto|	Documento de arquitetura, diagramas UML diversos e diagramas entidade-relacionamento.|
+	|Arquivos de configuração|	Arquivos com parâmetros utilizados para configuração do ambiente e execução do sistema.|
+	|Código-fonte|	Arquivos contendo as classes do sistema.|
+	|Builds|	Releases do projeto executando em produção.|
 		
 	
 	
