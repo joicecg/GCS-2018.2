@@ -146,7 +146,7 @@ Sumário
 
 	Foi criado a implementação com utilização de react, com java-script, bootstrap e react-markdow.
 	
-	Para rodar a aplicação em react é necessario ter instalado o node.js: `https://nodejs.org/en/`
+	Para rodar a aplicação em react é necessario ter instalado o node.js versao 8.12.0: `https://nodejs.org/en/`
 	
 	Apos baixar e instalar node js, abra a pasta `page` dentro do repositorio e execute o seguindo comando
 	para baixar as dependencias que foram utilizadas: `npm i`
