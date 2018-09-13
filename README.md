@@ -142,8 +142,22 @@ Sumário
 	|Artefatos de análise e projeto|	Documento de arquitetura, diagramas UML diversos e diagramas entidade-relacionamento.|
 	|Arquivos de configuração|	Arquivos com parâmetros utilizados para configuração do ambiente e execução do sistema.|
 	|Código-fonte|	Arquivos contendo as classes do sistema.|
-	|Builds|	Releases do projeto executando em produção.|
-		
+	|Builds|	Releases do projeto executando em produção.|	
+
+
+4. Implementação
+
+	Foi criado a implementação com utilização de react, com java-script, bootstrap e react-markdow.
 	
+	Para rodar a aplicação em react é necessario ter instalado o node.js versao 8.12.0: `https://nodejs.org/en/`
+	
+	Apos baixar e instalar node js, abra a pasta `page` dentro do repositorio e execute o seguindo comando
+	para baixar as dependencias que foram utilizadas: `npm i`
+	Apos baixar as dependencias do prejeto, para executa-lo, abra a pasta `page` novamente e execute o seguite comando: `npm start`, com isso devera abrir uma pagina no navegador da aplicação em `http://localhost:3000/`
+
+	Para utilizar a aplicação basta alterar o data.json que esta [aqui] `page\src\data` seguindo o padrão já utilizado no arquivo, com a implementação feita, somente alterando o json ira ser criado um novo card(com nome do verbete) e ao clickar devera abrir suas definições.
+
+	[OBS]: Os dados do `data.json` estão escritos em markdown.
+
 	
 

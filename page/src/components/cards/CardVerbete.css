@@ -1,0 +1,42 @@
+.card{
+    width: 18%;
+    height: 48%;
+    background: Gainsboro;
+    float: left;
+    margin: 0 1% 1% 1%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.card:hover{
+    background: white;
+    cursor: pointer;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.card:active{
+    box-shadow: 6px 6px 10px #999;	
+}
+
+.cards{
+    width: 100%;
+    height: 50%;
+    background: DimGray;
+    border-radius: 10px;
+    padding: 1%;
+    display: block;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
